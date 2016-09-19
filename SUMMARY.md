@@ -6,4 +6,5 @@
    * [Markdown](format/markdown.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [在WIN7系统下装虚拟机](zhuang_xu_ni_ji.md)
+* 观看Introduction to Linux
 
